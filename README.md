@@ -1,6 +1,6 @@
 # Efficient-R1-VLLM
 
-# 🚀 Efficient-R1-VLLMn: Efficient RL-Tuned MoE Vision-Language Model For Reasoning  
+# 🚀 Efficient-R1-VLLM: Efficient RL-Tuned MoE Vision-Language Model For Reasoning  
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-cyan)](https://www.python.org/)
