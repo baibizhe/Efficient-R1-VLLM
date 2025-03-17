@@ -29,11 +29,14 @@ pip install -r requirements.txt  # Requires CUDA 12.x and NVIDIA GPUs
 
 # Install SGLang for accelerated rollouts  
 pip install "sglang[all]"
-
 ```
+
 Our codebase builds upon [R1-Multimodal-Journey]([https://github.com/EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/FanqingM/R1-Multimodal-Journey/)) and integrates open-source contributions from [vLLM](https://github.com/vllm-project/vllm), [Open-R1](https://github.com/huggingface/open-r1), and [trl](https://github.com/huggingface/trl). We also extend our gratitude to [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) for their open-source techniques and base models, which have enabled us to further our exploration.
+
 **Core Contributors (equal contribution with Alphabetical sorting)**
 Bai Bizhe
+
+
 
 Thanks for the help from Professor Wenqi Shao and Qiaosheng Zhang for their help.
 
